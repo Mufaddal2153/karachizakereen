@@ -1,0 +1,191 @@
+a{
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition:    all 0.3s ease-in-out;
+    -ms-transition:     all 0.3s ease-in-out;
+    -o-transition:      all 0.3s ease-in-out;
+    transition:         all 0.3s ease-in-out;
+}
+
+.red{ color: red }
+
+label { display: block; }
+
+.loading-search{ 
+    background-image: url("../images/search-loading.gif");
+    background-repeat: no-repeat;
+    display: none;
+    height: 16px;
+    float: right;
+    position: relative;
+    top: 7px;
+    width: 16px; }
+
+.bold{ font-weight: bold; }
+
+.navbar{ margin: 10px 0 !important; min-height: inherit !important; }
+
+.valign{ vertical-align: middle !important; }
+
+table.vertical-middle{  }
+table.vertical-middle > thead > tr > th,
+table.vertical-middle > tbody > tr > td{ vertical-align: middle; }
+
+.main h2{ text-align: center; }
+
+.main h3.main-heading{
+    color: #086010;
+    font-family: Open Sans,sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    margin-bottom: 20px;
+    margin-top: 0;
+}
+
+.ajax-result{ 
+	background-color: rgba(0, 100, 0, 0.8);
+    border: medium none;
+    border-radius: 0;
+    bottom: 0;
+    box-shadow: 0 0 5px 0 #000;
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    left: 0;
+    margin: 0;
+    padding: 260px 0;
+    position: fixed;
+    text-align: center;
+    text-transform: uppercase;
+    top: 0;
+    width: 100%;
+    z-index: 99; }
+
+.ajax-result.alert-danger{ background-color: rgba(255, 0, 0, 0.8); }
+
+.button.block{ display: block; text-align: center; }
+
+.main-icons{ padding-top: 30px; }
+.main-icons .icon{ 
+    background-color: #bd0404;
+    background-image: -moz-linear-gradient(top, #ae0a20, #c81801);
+    background-image: -ms-linear-gradient(top, #ae0a20, #c81801);
+    background-image: -webkit-linear-gradient(top, #ae0a20, #c81801);
+    background-image: -o-linear-gradient(top, #ae0a20, #c81801);
+    background-image: linear-gradient(top, #ae0a20, #c81801); }
+.main-icons .icon{ color: #fff; display: block; font-size: 18px; font-weight: 700; padding: 20px 10px; text-align: center; text-decoration: none; text-transform: uppercase; }
+.main-icons .icon span{ background-position: center top; background-repeat: no-repeat; display: block; padding-top: 55px; }
+.main-icons .icon.event span{ background-image: url("../images/event-icon.png"); }
+.main-icons .icon.schedule span{ background-image: url("../images/schedule-icon.png"); }
+.main-icons .icon.time span{ background-image: url("../images/time-icon.png"); }
+.main-icons .icon:hover{ background-color: #bd0404; background-image: none; }
+
+input[type="file"]{ height: auto; }
+
+.responsive-calendar .controls {
+text-align: center;
+}
+.responsive-calendar .controls a {
+cursor: pointer;
+}
+.responsive-calendar .controls h4 {
+display: inline;
+}
+.responsive-calendar .day-headers,
+.responsive-calendar .days {
+font-size: 0;
+}
+.responsive-calendar .day {
+display: inline-block;
+position: relative;
+font-size: 14px;
+width: 14.285714285714286%;
+text-align: center;
+}
+.responsive-calendar .day a {
+color: #000000;
+display: block;
+cursor: pointer;
+padding: 20% 0 20% 0;
+}
+.responsive-calendar .day a:hover {
+background-color: #eee;
+text-decoration: none;
+}
+.responsive-calendar .day.header {
+border-bottom: 1px gray solid;
+}
+.responsive-calendar .day.active a {
+background-color: #1d86c8;
+color: #ffffff;
+}
+.responsive-calendar .day.active a:hover {
+background-color: #36a0e2;
+}
+.responsive-calendar .day.active .not-current {
+background-color: #8fcaef;
+color: #ffffff;
+}
+.responsive-calendar .day.active .not-current:hover {
+background-color: #bcdff5;
+}
+.responsive-calendar .day.not-current a {
+color: #ddd;
+}
+.responsive-calendar .day .badge {
+position: absolute;
+top: 2px;
+right: 2px;
+z-index: 1;
+}
+
+.flex-center{ display: -webkit-box !important; display: -webkit-flex !important; display: -ms-flexbox !important; display: flex !important; -webkit-box-align: center; -webkit-align-items: center; -ms-flex-align: center; align-items: center; -webkit-box-pack: center; -webkit-justify-content: center; -ms-flex-pack: center; justify-content: center; }
+.with-space{ -webkit-box-pack: justify; -webkit-justify-content: space-between; -moz-box-pack: justify; -ms-flex-pack: justify; justify-content: space-between; }
+
+.contact-detail{ padding-top: 0; text-align: left; }
+.contact-detail .contact{ margin-left: 10px; }
+.contact-detail.main-icons .icon{ border-radius: 4px; font-size: 15px; font-weight: 500; padding: 8px 12px; text-align: left; text-transform: capitalize; width: 120px; }
+.contact-detail .contact .icon span{ font-size: 22px; padding-right: 5px; padding-top: 0; }
+
+#search-data .table > tbody > tr > td,
+#search-data .table > tbody > tr > th,
+#search-data .table > tfoot > tr > td,
+#search-data .table > tfoot > tr > th,
+#search-data .table > thead > tr > td,
+#search-data .table > thead > tr > th{ vertical-align: middle; }
+
+#timer{text-align:center;}
+#timer .item{ color: #fff; display: block; font-size: 100px; font-weight: 700; line-height: 80px; padding: 20px 10px; text-align: center; text-decoration: none; text-transform: uppercase; }
+#timer .item{ 
+    background-color: #bd0404;
+    background-image: -moz-linear-gradient(top, #ae0a20, #c81801);
+    background-image: -ms-linear-gradient(top, #ae0a20, #c81801);
+    background-image: -webkit-linear-gradient(top, #ae0a20, #c81801);
+    background-image: -o-linear-gradient(top, #ae0a20, #c81801);
+    background-image: linear-gradient(top, #ae0a20, #c81801); }
+#timer span{ display: block; font-size: 20px; line-height: normal; margin-top: 14px; }
+
+@media print {
+
+    #search-data .table > tbody > tr > th.coodinator,
+    #search-data .table > tbody > tr > td.coodinator,
+    .table > thead > tr > th.eng-date,
+    .table > tbody > tr > td.eng-date{ display: none !important; }
+
+}
+
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+
+    .schedule-area .table{ table-layout: fixed; } 
+    .schedule-area .table > thead > tr > th,
+    .schedule-area .table > tbody > tr > th,
+    .schedule-area .table > tfoot > tr > th{ display: none; }
+    .schedule-area .table > thead > tr > td,
+    .schedule-area .table > tbody > tr > td,
+    .schedule-area .table > tfoot > tr > td{ display: block; float: left; text-align: center !important; white-space: normal; width: 100% !important; }
+    .schedule-area .table > tbody > tr > td:nth-child(1){ background-color: #000; color: #fff; }
+    .schedule-area .table > tbody > tr > td:nth-child(3){ padding: 8px 16px; width: 40% !important; }
+    .schedule-area .table > tbody > tr > td:nth-child(4){ padding: 8px 25px; width: 60% !important; }
+
+}
+
+.fileinput-button img{ max-width: 250px }

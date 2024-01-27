@@ -1,0 +1,43 @@
+Thaali Requisition Email sent at 2013-11-19 15:05:02 (Markaz : Ezzy Caterers)
+Thaali Requisition Email sent at 2013-11-19 15:05:03 (Mohalla : Burhani,Drop Point : BM - Ezzy Caterers (Self Pickup))
+Thaali Requisition Reminder Email Sent at 2013-11-20 12:05:01 (Mohalla : Fakhri,Drop Point : FM - Burhani Masjid (Trip 1))
+Thaali Requisition Reminder Email Sent at 2013-11-20 12:05:02 (Mohalla : Fakhri,Drop Point : FM - Masakin Mohammadiyah)
+Thaali Requisition Reminder Email Sent at 2013-11-20 12:05:02 (Mohalla : Taheri,Drop Point : TM - Ezzy Caterers (Self Pickup))
+Thaali Requisition Reminder Email Sent at 2013-11-20 12:05:02 (Mohalla : Burhani,Drop Point : BM - Ezzy Caterers (Self Pickup))
+Thaali Requisition Reminder Email Sent at 2013-11-20 12:05:03 (Mohalla : Fakhri,Drop Point : FM - Garhoud)
+Thaali Requisition Reminder Email Sent at 2013-11-20 12:05:03 (Mohalla : Fakhri,Drop Point : FM - Burhani Masjid (Trip 2))
+
+Thaali Requisition Email sent at 2013-11-20 15:05:01 (Markaz : Central Kitchen)
+Recipients : admin@faizmb.com,yusuf@faizmb.com,juzer@vaziri.ae,aliasgar.saeed@gmail.com
+
+Thaali Requisition Email sent at 2013-11-20 15:05:01 (Markaz : Ezzy Caterers)
+Recipients : admin@faizmb.com,juzer@vaziri.ae,newezzirestaurant@yahoo.com
+
+Thaali Requisition Email sent at 2013-11-20 15:05:01 (Mohalla : Burhani,Drop Point : BM - Ezzy Caterers (Self Pickup))
+Recipients : saify_k@yahoo.com , borki_yusuf@yahoo.com , sajjads@eim.ae
+
+Thaali Requisition Email sent at 2013-11-20 15:05:02 (Mohalla : Najmi,Drop Point : NM - Riqqa Road)
+Recipients : miz2109@gmail.com , kaidjoharparekh@gmail.com
+
+Thaali Requisition Email sent at 2013-11-20 15:05:02 (Mohalla : Najmi,Drop Point : NM - Abu Hail)
+Recipients : kundawala@gmail.com , miz2109@gmail.com , kaidjoharparekh@gmail.com
+Error in requisition emails (Markaz : Central Kitchen) [2013-12-11 11:32:04] : You must provide at least one recipient email address.
+Error in requisition emails (Markaz : Ezzy Caterers) [2013-12-11 11:32:07] : You must provide at least one recipient email address.
+Error in requisition emails (Mohalla : Burhani,Drop Point : FM - Burhani Masjid (Trip 1)) [2013-12-11 11:32:07] : You must provide at least one recipient email address.
+Error in requisition emails (Mohalla : Fakhri,Drop Point : FM - Masakin Mohammadiyah) [2013-12-11 11:32:07] : You must provide at least one recipient email address.
+Error in requisition emails (Mohalla : Taheri,Drop Point : TM - Ezzy Caterers (Self Pickup)) [2013-12-11 11:32:07] : You must provide at least one recipient email address.
+Error in requisition emails (Mohalla : Burhani,Drop Point : BM - Ezzy Caterers (Self Pickup)) [2013-12-11 11:32:07] : You must provide at least one recipient email address.
+Error in requisition emails (Mohalla : Najmi,Drop Point : NM - Riqqa Road) [2013-12-11 11:32:07] : You must provide at least one recipient email address.
+Error in requisition emails (Mohalla : Najmi,Drop Point : NM - Abu Hail) [2013-12-11 11:32:07] : You must provide at least one recipient email address.
+Error in requisition emails (Mohalla : Fakhri,Drop Point : FM - Garhoud) [2013-12-11 11:32:07] : You must provide at least one recipient email address.
+Error in requisition emails (Mohalla : Fakhri,Drop Point : FM - Burhani Masjid (Trip 2)) [2013-12-11 11:32:07] : You must provide at least one recipient email address.
+Error in requisition emails (Markaz : Central Kitchen) [2013-12-11 11:40:58] : You must provide at least one recipient email address.
+Error in requisition emails (Markaz : Ezzy Caterers) [2013-12-11 11:40:58] : You must provide at least one recipient email address.
+Error in requisition emails (Mohalla : Burhani,Drop Point : FM - Burhani Masjid (Trip 1)) [2013-12-11 11:40:58] : You must provide at least one recipient email address.
+Error in requisition emails (Mohalla : Fakhri,Drop Point : FM - Masakin Mohammadiyah) [2013-12-11 11:40:58] : You must provide at least one recipient email address.
+Error in requisition emails (Mohalla : Taheri,Drop Point : TM - Ezzy Caterers (Self Pickup)) [2013-12-11 11:40:58] : You must provide at least one recipient email address.
+Error in requisition emails (Mohalla : Burhani,Drop Point : BM - Ezzy Caterers (Self Pickup)) [2013-12-11 11:40:58] : You must provide at least one recipient email address.
+Error in requisition emails (Mohalla : Najmi,Drop Point : NM - Riqqa Road) [2013-12-11 11:40:58] : You must provide at least one recipient email address.
+Error in requisition emails (Mohalla : Najmi,Drop Point : NM - Abu Hail) [2013-12-11 11:40:58] : You must provide at least one recipient email address.
+Error in requisition emails (Mohalla : Fakhri,Drop Point : FM - Garhoud) [2013-12-11 11:40:58] : You must provide at least one recipient email address.
+Error in requisition emails (Mohalla : Fakhri,Drop Point : FM - Burhani Masjid (Trip 2)) [2013-12-11 11:40:58] : You must provide at least one recipient email address.
